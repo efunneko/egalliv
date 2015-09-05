@@ -1,0 +1,24 @@
+{
+  "name": "egalliv",
+  "version": "0.1.0",
+  "description": "It takes a Village",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/efunneko/egalliv.git"
+  },
+  "author": "Edward Funnekotter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/efunneko/egalliv/issues"
+  },
+  "homepage": "https://github.com/efunneko/egalliv",
+  "devDependencies": {
+    "jshint": "~2.8.0",
+    "chai": "~3.2.0",
+    "mocha": "~2.3.0"
+  }
+}
